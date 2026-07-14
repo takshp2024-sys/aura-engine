@@ -20,3 +20,5 @@ This project is automatically deployed via Vercel.
 - **Tailwind CSS**: Styling.
 - **Firebase**: Database and Auth.
 - **Google Gemini API**: AI Stylist engine.
+
+- <img width="777" height="862" alt="image" src="https://github.com/user-attachments/assets/fbf676e1-f79d-44fd-98f4-3ad861aeb4cd" />

@@ -1,0 +1,1 @@
+export const CATEGORIES=[{id:'jackets',label:'Jackets',icon:'🧥'},{id:'tops',label:'Tops',icon:'👕'},{id:'bottoms',label:'Bottoms',icon:'👖'},{id:'shoes',label:'Shoes',icon:'👟'},{id:'accessories',label:'Accessories',icon:'💍'}];export const MAX_PER_CATEGORY=100;export const MAX_IMAGE_BYTES=8*1024*1024;
